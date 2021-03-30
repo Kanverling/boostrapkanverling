@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+}
+.container {
+    margin-bottom: 20px;
+}
+.container .container-fluid #clothingnavcontent1 {
+    margin-top: 20px;
+}
+.container .container .container-fluid {
+    margin-top: 20px;
+}
